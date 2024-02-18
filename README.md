@@ -1,4 +1,4 @@
-![BladeRunner](https://github.com/MaxVanDijck/maxvandijck/assets/50382570/44268025-717d-495a-8de8-eb0716a18d30)
+![BladeRunner](https://github.com/MaxVanDijck/maxvandijck/assets/50382570/cf682c6a-c5e3-4a15-bc8e-542b201b4191)
 
 <!--
 **MaxVanDijck/maxvandijck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
